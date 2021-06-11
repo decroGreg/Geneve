@@ -1,9 +1,9 @@
 # Mise en context
 
-Lors de ce TP il fallait avec le langage de programmation Julia déterminer le ou les magasins à construire pour être le plus rentable possible au niveau transport.
+Lors de ce TP il fallait avec le langage de programmation Julia déterminer le ou les sites de productions à construire pour être le plus rentable possible au niveau transport.
 En effet, nous avons comme données 
-  * un ensemble de **sites** où l'on peut construire un magasins
-  * un ensemble de **magasins** déjà construit
+  * un ensemble de **sites** où l'on peut construire une production.
+  * un ensemble de **magasins** déjà construit qui s'approvisionne auprès des sites
   * Et pour chaque route (ref excel), existant, le **coût** du transport
 
 A ça s'ajoute certaine contrainte:
