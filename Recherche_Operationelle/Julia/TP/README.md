@@ -9,7 +9,7 @@ En effet, nous avons comme données
 A ça s'ajoute certaines contraintes:
 * Il ne peut y avoir de routes reliant un magasin/sites à un site qui n'a pas été construit
 * Il faut construire au moins un site
-* chaque magasin n'à le droit de s'approvisionner chez qu'un seul site de production
+* chaque magasin n'à le droit de s'approvisionner auprès d'un seul site de production
 * L'utilisation de l'algorithme de dijkstra 
 * L'utilisation de la fonction optimize de la librairie JuMP
 
